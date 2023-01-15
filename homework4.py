@@ -3,8 +3,8 @@ class A:
         self.name = name
 
 
-class B(A):
-    def __init__(self ,age ):
+class B:
+    def __init__(self,age):
         self.age = age
 
 class C:
